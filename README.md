@@ -1,7 +1,7 @@
 # todo-list-in-vanilla-js
 An unusually small project todo list in Vanilla js
 
-*The Storm To Do
+*The Storm To Do <br/>
 *Universal Todo List
 
 *colors:
