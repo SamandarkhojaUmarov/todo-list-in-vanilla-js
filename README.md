@@ -13,10 +13,9 @@ An unusually small project todo list in Vanilla js
 
 Follow me on:
 
-*Instagram: https://www.instagram.com/Samandarkhoja_Umarov
-*Facebook: https://www.facebook.com/Umarov.Samandarkhoja
-*Telegram: https://t.me/Samandarkhoja_Umarov
-
+*Instagram: https://www.instagram.com/Samandarkhoja_Umarov <br/>
+*Facebook: https://www.facebook.com/Umarov.Samandarkhoja <br/>
+*Telegram: https://t.me/Samandarkhoja_Umarov <br/>
 
 <b> coded by Samandarkhoja Umarov (https://github.com/SamandarkhojaUmarov) </b>
 
